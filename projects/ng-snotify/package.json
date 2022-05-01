@@ -76,7 +76,7 @@
     "url": "https://artemsky.github.io/ng-snotify/issues"
   },
   "peerDependencies": {
-    "@angular/core": "^9.0.0",
+    "@angular/core": "~11.0.2",
     "rxjs": "^6.5.4",
     "zone.js": "^0.10.2"
   }
